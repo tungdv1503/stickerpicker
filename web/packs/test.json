@@ -1,0 +1,63 @@
+{
+    "title": "Animated",
+    "id": "test",
+    "stickers": [
+        {
+            "body": "discord-nice-APNG",
+            "url": "mxc://matrix.org/xqSvuOlWngtRNpDkqQtnUyLJ",
+            "info": {
+                "w": 100,
+                "h": 100,
+                "size": 66803,
+                "mimetype": "image/gif",
+                "thumbnail_url": "mxc://matrix.org/xqSvuOlWngtRNpDkqQtnUyLJ",
+                "thumbnail_info": {
+                    "w": 100,
+                    "h": 100,
+                    "size": 66803,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:a45005cad2d658d5b15724b5aa2041f2c75c62492681ff4d2fb4bf9c73e9b478"
+        },
+        {
+            "body": "nyancat-WEBP",
+            "url": "mxc://matrix.org/OXmlTjWWfTnyJPINchTHanTB",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 37342,
+                "mimetype": "image/gif",
+                "thumbnail_url": "mxc://matrix.org/OXmlTjWWfTnyJPINchTHanTB",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 37342,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:df1160649539a1f73d4c52043358092c59c584763daf18007ff73b72865ddbc1"
+        },
+        {
+            "body": "wiggling-corgi-GIF",
+            "url": "mxc://matrix.org/brigGOxbYHbSKNxvmLGnOgFp",
+            "info": {
+                "w": 128,
+                "h": 128,
+                "size": 31081,
+                "mimetype": "image/gif",
+                "thumbnail_url": "mxc://matrix.org/brigGOxbYHbSKNxvmLGnOgFp",
+                "thumbnail_info": {
+                    "w": 128,
+                    "h": 128,
+                    "size": 31081,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:0993829e12a9643ba75482ebb6f335fa2d261113f17881ce0759f6ebfef39509"
+        }
+    ]
+}
