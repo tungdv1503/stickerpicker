@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "emotes.json"
+  ],
+  "homeserver_url": "http://192.168.160.154:8081"
+}
