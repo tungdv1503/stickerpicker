@@ -1,6 +1,8 @@
 {
   "packs": [
-    "test.json"
+    "test.json",
+    "New_folder.json",
+    "stickers_1722929610295506.json"
   ],
   "homeserver_url": "https://matrix.org"
 }
